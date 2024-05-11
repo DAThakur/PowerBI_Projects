@@ -4,12 +4,12 @@ Welcome to my Power BI Projects repository! Explore a collection of data-driven 
 
 ## Table of Contents
 
-- [Project 1: Sales Analysis Dashboard](#project-1-sales-analysis-dashboard)
+- [Project 1: Employee_Reimbursement Analysis Dashboard](#project-1-sales-analysis-dashboard)
 ---
 
-## Project 1: Sales Analysis Dashboard
+## Project 1: Employee Reimbursement Analysis Dashboard
 
-Description: This project includes an interactive dashboard for analyzing sales data. It provides insights into sales performance, trends, and key metrics.
+Description: This project includes an interactive dashboard for analyzing reimbursement data. It provides insights into sales performance, trends, and key metrics.
 
 Features:
 - Developed a basic dashboard using Pivot tables to visualize sales data and identify performance.
