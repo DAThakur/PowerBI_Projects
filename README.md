@@ -19,7 +19,7 @@ Welcome to my Power BI Projects repository! Explore a collection of data-driven 
 - **Strategic Recommendations:** Actionable insights for improving market share and revenue growth.
 - **Tools:** Power BI
 
-[View Project 1: Hospitality Analysis Dashboard](https://github.com/DAThakur/PowerBI_Projects/blob/main/AtliQ_Hospitality_Analysis.pbix)
+[View Project 1: Hospitality Analysis Dashboard](https://github.com/DAThakur/PowerBI_Projects/blob/main/AtliQ%20Grand%20Hospitality%20Business.pdf)
 
 ---
 
@@ -35,7 +35,7 @@ Welcome to my Power BI Projects repository! Explore a collection of data-driven 
 - **Performance Comparison:** Compared actual performance against target service levels, highlighting areas of concern.
 - **Tools:** Power BI
 
-[View Project 2: Supply Chain Analysis Dashboard](https://github.com/DAThakur/PowerBI_Projects/blob/main/AtliQ_Supply_Chain_Analysis.pbix)
+[View Project 2: Supply Chain Analysis Dashboard](https://github.com/DAThakur/PowerBI_Projects/blob/main/AtliQ%20Mart%20-%20Supply%20Chain.pdf)
 
 ---
 
@@ -51,7 +51,7 @@ Welcome to my Power BI Projects repository! Explore a collection of data-driven 
 - **Strategic Recommendations:** Presented data-driven recommendations to help AtliQo recover its active user rate and improve revenue growth.
 - **Tools:** Power BI
 
-[View Project 3: Telecom Analysis Dashboard](https://github.com/DAThakur/PowerBI_Projects/blob/main/AtliQo_Telecom_Analysis.pbix)
+[View Project 3: Telecom Analysis Dashboard](https://github.com/DAThakur/PowerBI_Projects/blob/main/AtliQo%20Telecom.pdf)
 
 ---
 
