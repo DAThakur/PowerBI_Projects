@@ -34,6 +34,21 @@ Welcome to my Power BI Projects repository! Explore a collection of data-driven 
 - **Tools:** Power BI
 
 [View Project 2: Supply Chain Analysis Dashboard](https://github.com/DAThakur/PowerBI_Projects/blob/main/AtliQ_Hospitality_Analysis.pbix)
+---
+### Project 3: Telecom Analysis Dashboard
+
+**Description:**  
+"This project was undertaken as part of the November Codebasics resume project challenge, focusing on analyzing and reporting key performance indicators (KPIs) for AtliQo, a leading telecom provider in India. The goal was to compare the company's performance before and after the launch of its 5G plans in May 2022, providing management with actionable insights to address declining user rates and revenue growth."
+
+**Features:**
+- **Pre vs. Post-5G Launch Analysis:** Visualized the differences in active users, revenue growth, and other key KPIs, providing a clear comparison between the two periods.
+- **Optimization Opportunities:** Offered insights into potential optimization strategies for internet plans to attract more active users.
+- **Interactive Dashboard:** Enabled management to explore data through filters and drill-down capabilities, offering a deeper understanding of trends and performance metrics.
+- **Strategic Recommendations:** Presented data-driven recommendations to help AtliQo recover its active user rate and improve revenue growth.
+- **Tools:** Power BI
+
+[View Project 3: Telecom Analysis Dashboard](https://github.com/DAThakur/PowerBI_Projects/blob/main/AtliQ_Hospitality_Analysis.pbix)
+
 
 ---
 Feel free to explore each project folder for detailed documentation, .pbix files, and sample data. If you have any questions or feedback, please don’t hesitate to reach out.
