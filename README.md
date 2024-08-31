@@ -1,10 +1,11 @@
 # Power BI Projects Repository
-Welcome to my Power BI Projects repository! Explore a collection of data-driven solutions crafted with Power BI, showcasing insights, visualizations and analytics that drive informed decision-making.
+Welcome to my Power BI Projects repository! Explore a collection of data-driven solutions crafted with Power BI, showcasing insights, visualizations, and analytics that drive informed decision-making.
 
 ## Table of Contents
 - [Project 1: Hospitality Analysis Dashboard](#project-1-hospitality-analysis-dashboard)
-- [Project 2: Supply Chain Analysis Dashboard](#project-2-hospitality-analysis-dashboard)
-- [Project 3: Telecom Analysis Dashboard](#project-3-hospitality-analysis-dashboard)
+- [Project 2: Supply Chain Analysis Dashboard](#project-2-supply-chain-analysis-dashboard)
+- [Project 3: Telecom Analysis Dashboard](#project-3-telecom-analysis-dashboard)
+
 ---
 
 ### Project 1: Hospitality Analysis Dashboard
@@ -21,6 +22,7 @@ Welcome to my Power BI Projects repository! Explore a collection of data-driven 
 [View Project 1: Hospitality Analysis Dashboard](https://github.com/DAThakur/PowerBI_Projects/blob/main/AtliQ_Hospitality_Analysis.pbix)
 
 ---
+
 ### Project 2: Supply Chain Analysis Dashboard
 
 **Description:**  
@@ -33,8 +35,10 @@ Welcome to my Power BI Projects repository! Explore a collection of data-driven 
 - **Performance Comparison:** Compared actual performance against target service levels, highlighting areas of concern.
 - **Tools:** Power BI
 
-[View Project 2: Supply Chain Analysis Dashboard](https://github.com/DAThakur/PowerBI_Projects/blob/main/AtliQ_Hospitality_Analysis.pbix)
+[View Project 2: Supply Chain Analysis Dashboard](https://github.com/DAThakur/PowerBI_Projects/blob/main/AtliQ_Supply_Chain_Analysis.pbix)
+
 ---
+
 ### Project 3: Telecom Analysis Dashboard
 
 **Description:**  
@@ -47,8 +51,8 @@ Welcome to my Power BI Projects repository! Explore a collection of data-driven 
 - **Strategic Recommendations:** Presented data-driven recommendations to help AtliQo recover its active user rate and improve revenue growth.
 - **Tools:** Power BI
 
-[View Project 3: Telecom Analysis Dashboard](https://github.com/DAThakur/PowerBI_Projects/blob/main/AtliQ_Hospitality_Analysis.pbix)
-
+[View Project 3: Telecom Analysis Dashboard](https://github.com/DAThakur/PowerBI_Projects/blob/main/AtliQo_Telecom_Analysis.pbix)
 
 ---
+
 Feel free to explore each project folder for detailed documentation, .pbix files, and sample data. If you have any questions or feedback, please don’t hesitate to reach out.
